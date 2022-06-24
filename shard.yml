@@ -1,0 +1,13 @@
+name: minidb
+version: 0.1.0
+
+authors:
+  - Gustavo Cavalcante <nowayhecodes@gmail.com>
+
+targets:
+  minidb:
+    main: src/minidb.cr
+
+crystal: 1.4.1
+
+license: MIT
